@@ -1,0 +1,169 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: white;
+  padding-bottom: 1px;
+  color: black;
+}
+
+.wrap {
+  width: 1140px;
+  margin: 0 auto;
+  padding: 0 50px;
+}
+
+.raw {
+  width: 100%;
+}
+
+.clearfix {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+.left {
+  float: left;
+  padding-top: 32px;
+  padding-bottom: 20px;
+}
+.left-middle {
+  float: left;
+  padding-top: 32px;
+  padding-bottom: 20px;
+  font-size: 38px;
+
+
+}
+
+.middle {
+  float: left;
+  color: black;
+}
+
+.middle ul li {
+  display: inline-block;
+  padding-top:32px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 20px;
+}
+
+.right {
+  float: right;
+  padding-top: 52px;
+  padding-bottom: 20px;
+  font-size: 20px;
+}
+.teddy{
+  width: 67px;
+    height: 49px;
+}
+.logo-text{
+  text-decoration: none;
+  color: #17a2b8;
+
+
+}
+.right-joinclass{
+  font-size:15px;
+  font-family:Arial;
+  width:144px;
+  height:46px;
+  border-width:1px;
+  color:#fff;
+  border-color:#18ab29;
+  font-weight:bold;
+  border-top-left-radius:28px;
+  border-top-right-radius:28px;
+  border-bottom-left-radius:28px;
+  border-bottom-right-radius:28px;
+  text-shadow: 1px 1px 0px #2f6627;
+  background:#17a2b8;
+  text-decoration: none;
+  padding: 10px 15px;
+}
+
+.buttonClass:hover {
+  background: #17a2b8;
+}
+.item{
+  text-decoration: none;
+}
+.kid-wrap{
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 50px;
+}
+.kid-row{
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+}
+.kidlearning-section{
+  background-color: #17a2b8;
+  color: white;
+  padding-bottom: 25px;
+}
+.kid-title{
+  font-size: 82px;
+    font-family: Handlee;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.kid-heading{
+  padding-top: 80px;
+    font-family: 'Handlee';
+    font-size: 29px;
+}
+.Learn-more{
+  font-size:15px;
+  font-family:Arial;
+  width:144px;
+  height:46px;
+  border-width:1px;
+  color:#fff;
+  border-color:#18ab29;
+  font-weight:bold;
+  border-top-left-radius:28px;
+  border-top-right-radius:28px;
+  border-bottom-left-radius:28px;
+  border-bottom-right-radius:28px;
+  text-shadow: 1px 1px 0px #2f6627;
+  background:#00394f;
+  text-decoration: none;
+      padding: 13px 25px;
+}
+
+.Learn-more:hover {
+  background: #00394f;
+}
+.kid-para{
+  padding-bottom:20px;
+}
+.kid-image{
+  height: 96%;
+    width: 100%;
+    margin-top: 19px;
+  }
+  .item-wrap{
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 50px;
+  }
+  .item-row{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+  }
+  .item-column{
+    margin-top:20px;
+    background-color:#f8f9fa;
+    border-bottom: 20px solid white;
+    border-left:10px solid white;
+    border-right:10px solid white;
+  }
